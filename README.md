@@ -4,9 +4,9 @@
 
 
 ---
-
+<div align="center">
 ![image](./view/Screenshot%20from%202023-08-24%2001-30-54.png)
-
+</div>
 
 ---
 
